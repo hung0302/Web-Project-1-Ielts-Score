@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Writing Scorer",
+  "description": "An IELTS Writing practice app that scores essays using an n8n webhook and saves data to a local SQLite database matching the provided Google Sheets schema.",
+  "requestFramePermissions": []
+}
